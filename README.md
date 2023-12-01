@@ -8,7 +8,7 @@ Please feel free to use this code as you wish, but please don't use it to cheat.
 
 ## Calendar 2023
 
-| Day | Part One | Part Two | readme |
+| Day | readme | Part One | Part Two |
 |---|:---:|:---:|:---:|
-| [Day 1: ](https://adventofcode.com/2023/day/1) | ⭐️ | ⭐️ | [README.md](./day-01/README.md) |
+| [Day 1: ](https://adventofcode.com/2023/day/1) | [README.md](./day-01/README.md) | ⭐️ | ⭐️ |
 
