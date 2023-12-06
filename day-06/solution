@@ -1,0 +1,32 @@
+T = t1 + t2
+
+t1 - time spent holding the button
+t2 - time spend driving the car
+
+a = 1 millimeter / millisecond (CONST)
+v = t1 * a - where a is the acceleration of the car
+
+d = v * t2
+d = t1 * a * t2
+d = t1 * t2
+
+d = t1 * (T - t1)
+D = t1 * T - t1^2
+
+two possible solutions:
+x1 and x2
+
+|x2 - x1| is the number of ways to press the button to make car travel more than D millimeters
+
+a = -1
+b = T
+c = -D
+
+using quadratic formula we get:
+
+x1 = (-b + sqrt(DD)) / 2a
+x2 = (-b - sqrt(DD)) / 2a
+
+Since it involves more math based approach, let choose an appropriate language for it.
+
+and that would be 
