@@ -14,3 +14,4 @@ Please feel free to use this code as you wish, but please don't use it to cheat.
 | [Day 4: ](https://adventofcode.com/2023/day/4) | JS | [README.md](./day-04/README.md) | ⭐️ | ⭐️ |
 | [Day 5: ](https://adventofcode.com/2023/day/5) | Java | [README.md](./day-05/README.md) | ⭐️ | ⭐️ |
 | [Day 6: ](https://adventofcode.com/2023/day/6) | Lua | [README.md](./day-06/README.md) | ⭐️ | ⭐️ |
+| [Day 7: ](https://adventofcode.com/2023/day/7) | Python | [README.md](./day-07/README.md) | ⭐️ | ⭐️ |
