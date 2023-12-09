@@ -1,0 +1,26 @@
+
+
+
+
+
+[xxA, xxA, xxA, ...]
+
+all of them are going to end up in some 
+
+[xxZ, xxZ, xxZ, ...]
+
+We have an instruction that loops for ever.
+
+
+for some arbitrary number of instructions, let say its D.
+
+D1 = m1 * len(I) + n1
+
+xxA -> xxB -> ... -> xxZ
+
+D2 = m2 * len(I) + n2
+
+xxA -> xxB -> ... -> xxZ
+
+
+LCM (least common multiple of all paths)
