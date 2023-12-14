@@ -32,7 +32,7 @@ public class Main {
 
         ArrayList<String> content = new ArrayList<>();
         try {
-            File file = new File("./day-05/src/input.txt");
+            File file = new File("./sub-input-2.txt");
             Scanner sc = new Scanner(file);
 
             while (sc.hasNextLine()) {
