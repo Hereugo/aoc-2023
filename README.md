@@ -18,7 +18,7 @@ Please feel free to use this code as you wish, but please don't use it to cheat.
 | [Day 8: ](https://adventofcode.com/2023/day/8) | Go | [README.md](./day-08/README.md) | ⭐️ | ⭐️ |
 | [Day 9: ](https://adventofcode.com/2023/day/9) | Python | [README.md](./day-09/README.md) | ⭐️ | ⭐️ |
 | [Day 10: ](https://adventofcode.com/2023/day/10) | JS | [README.md](./day-10/README.md) | ⭐️ | ⭐️ |
-| [Day 11: ](https://adventofcode.com/2023/day/11) | C++ | [README.md](./day-11/README.md) |  |  |
+| [Day 11: ](https://adventofcode.com/2023/day/11) | Python | [README.md](./day-11/README.md) | ⭐️️️️️ | ⭐️ |
 | [Day 12: ](https://adventofcode.com/2023/day/12) | Java | [README.md](./day-12/README.md) |  |  |
 | [Day 13: ](https://adventofcode.com/2023/day/13) | Lua | [README.md](./day-13/README.md) |  |  |
 | [Day 14: ](https://adventofcode.com/2023/day/14) | Python | [README.md](./day-14/README.md) |  |  |
